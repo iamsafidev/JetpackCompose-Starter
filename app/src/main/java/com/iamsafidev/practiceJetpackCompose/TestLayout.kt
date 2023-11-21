@@ -26,7 +26,7 @@ fun TestBox() {
         Text(text = "A bunch of text\n on multiple line\n data loading.")
         CircularProgressIndicator()
     }
-}
+}                    
 
 
 @Composable
