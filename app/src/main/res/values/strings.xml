@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="person_name">Catalin</string>
+    <string name="person_hobbie1">I like Travelling</string>
+    <string name="person_hobbie2">Learning Android</string>
+    <string name="person_hobbie3">Sleeping</string>
+    <string name="edit_profile">Edit Profile</string>
 </resources>
